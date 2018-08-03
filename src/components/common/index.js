@@ -1,0 +1,5 @@
+export * from './NavBar'
+// export * from './ScannerQr'
+// export * from './ScannerCode'
+// export * from './QrCreate'
+// export * from './QrComponent'
